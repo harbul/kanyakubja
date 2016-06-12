@@ -155,3 +155,4 @@ cdn.symmetry.version.txt
 /javadoc
 
 tomcat8/bin/.class_modified
+/kanyakubja-portal/nbproject/private/

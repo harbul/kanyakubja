@@ -1,0 +1,46 @@
+12-Jun-2016 11:29:34.806 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.35
+12-Jun-2016 11:29:34.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 11 2016 21:57:08 UTC
+12-Jun-2016 11:29:34.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.35.0
+12-Jun-2016 11:29:34.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+12-Jun-2016 11:29:34.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.11.5
+12-Jun-2016 11:29:34.811 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+12-Jun-2016 11:29:34.811 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre
+12-Jun-2016 11:29:34.811 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_25-b17
+12-Jun-2016 11:29:34.811 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Jun-2016 11:29:34.811 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/Vaibhav/MyHome/workme/repos/kanyakubja/tomcat8
+12-Jun-2016 11:29:34.812 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/Vaibhav/MyHome/workme/repos/kanyakubja/tomcat8
+12-Jun-2016 11:29:34.813 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/Vaibhav/MyHome/workme/repos/kanyakubja/tomcat8/conf/logging.properties
+12-Jun-2016 11:29:34.813 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Jun-2016 11:29:34.813 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Jun-2016 11:29:34.813 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=/Users/Vaibhav/MyHome/workme/repos/kanyakubja/tomcat8/endorsed
+12-Jun-2016 11:29:34.813 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/Vaibhav/MyHome/workme/repos/kanyakubja/tomcat8
+12-Jun-2016 11:29:34.813 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/Vaibhav/MyHome/workme/repos/kanyakubja/tomcat8
+12-Jun-2016 11:29:34.814 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/Vaibhav/MyHome/workme/repos/kanyakubja/tomcat8/temp
+12-Jun-2016 11:29:34.814 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/Vaibhav/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+12-Jun-2016 11:29:35.219 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-Jun-2016 11:29:35.298 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Jun-2016 11:29:35.304 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+12-Jun-2016 11:29:35.307 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Jun-2016 11:29:35.308 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1350 ms
+12-Jun-2016 11:29:35.345 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+12-Jun-2016 11:29:35.345 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.35
+12-Jun-2016 11:29:35.389 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/Vaibhav/MyHome/workme/repos/kanyakubja/tomcat8/webapps/docs
+12-Jun-2016 11:29:35.893 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/Vaibhav/MyHome/workme/repos/kanyakubja/tomcat8/webapps/docs has finished in 529 ms
+12-Jun-2016 11:29:35.893 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/Vaibhav/MyHome/workme/repos/kanyakubja/tomcat8/webapps/examples
+12-Jun-2016 11:29:36.352 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/Vaibhav/MyHome/workme/repos/kanyakubja/tomcat8/webapps/examples has finished in 458 ms
+12-Jun-2016 11:29:36.353 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/Vaibhav/MyHome/workme/repos/kanyakubja/tomcat8/webapps/host-manager
+12-Jun-2016 11:29:36.379 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/Vaibhav/MyHome/workme/repos/kanyakubja/tomcat8/webapps/host-manager has finished in 26 ms
+12-Jun-2016 11:29:36.380 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/Vaibhav/MyHome/workme/repos/kanyakubja/tomcat8/webapps/manager
+12-Jun-2016 11:29:36.422 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/Vaibhav/MyHome/workme/repos/kanyakubja/tomcat8/webapps/manager has finished in 40 ms
+12-Jun-2016 11:29:36.422 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/Vaibhav/MyHome/workme/repos/kanyakubja/tomcat8/webapps/ROOT
+12-Jun-2016 11:29:36.441 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/Vaibhav/MyHome/workme/repos/kanyakubja/tomcat8/webapps/ROOT has finished in 19 ms
+12-Jun-2016 11:29:36.444 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-Jun-2016 11:29:36.452 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+12-Jun-2016 11:29:36.452 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1144 ms
+12-Jun-2016 11:29:59.866 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+12-Jun-2016 11:29:59.928 INFO [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+12-Jun-2016 11:29:59.984 INFO [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+12-Jun-2016 11:30:00.020 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+12-Jun-2016 11:30:00.025 INFO [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+12-Jun-2016 11:30:00.026 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+12-Jun-2016 11:30:00.027 INFO [Thread-5] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

@@ -156,3 +156,5 @@ cdn.symmetry.version.txt
 
 tomcat8/bin/.class_modified
 /kanyakubja-portal/nbproject/private/
+/kanyakubja-portal/build/
+/kanyakubja-portal/dist/

@@ -382,3 +382,35 @@ Jun 12, 2016 3:23:37 PM org.apache.catalina.core.StandardContext reload
 INFO: Reloading Context with name [/kanyakubja-portal] has started
 Jun 12, 2016 3:23:37 PM org.apache.catalina.core.StandardContext reload
 INFO: Reloading Context with name [/kanyakubja-portal] is completed
+Jun 12, 2016 3:24:55 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/host-manager]
+Jun 12, 2016 3:24:55 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/docs]
+Jun 12, 2016 3:24:56 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context []
+Jun 12, 2016 3:24:57 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/kanyakubja-portal]
+Jun 12, 2016 3:24:57 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/examples]
+Jun 12, 2016 3:24:58 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/manager]
+Jun 12, 2016 3:24:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\User\Documents\NetBeansProjects\kanyakubja\tomcat7\webapps\docs
+Jun 12, 2016 3:24:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\User\Documents\NetBeansProjects\kanyakubja\tomcat7\webapps\docs has finished in 203 ms
+Jun 12, 2016 3:24:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\User\Documents\NetBeansProjects\kanyakubja\tomcat7\webapps\examples
+Jun 12, 2016 3:25:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\User\Documents\NetBeansProjects\kanyakubja\tomcat7\webapps\examples has finished in 1,655 ms
+Jun 12, 2016 3:25:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\User\Documents\NetBeansProjects\kanyakubja\tomcat7\webapps\host-manager
+Jun 12, 2016 3:25:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\User\Documents\NetBeansProjects\kanyakubja\tomcat7\webapps\host-manager has finished in 172 ms
+Jun 12, 2016 3:25:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\User\Documents\NetBeansProjects\kanyakubja\tomcat7\webapps\manager
+Jun 12, 2016 3:25:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\User\Documents\NetBeansProjects\kanyakubja\tomcat7\webapps\manager has finished in 171 ms
+Jun 12, 2016 3:25:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\User\Documents\NetBeansProjects\kanyakubja\tomcat7\webapps\ROOT
+Jun 12, 2016 3:25:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\User\Documents\NetBeansProjects\kanyakubja\tomcat7\webapps\ROOT has finished in 156 ms

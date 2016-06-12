@@ -140,3 +140,5 @@ Jun 12, 2016 3:23:36 PM org.apache.catalina.core.ApplicationContext log
 INFO: Manager: list: Listing contexts for virtual host 'localhost'
 Jun 12, 2016 3:23:37 PM org.apache.catalina.core.ApplicationContext log
 INFO: Manager: restart: Reloading web application '/kanyakubja-portal'
+Jun 12, 2016 3:24:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'

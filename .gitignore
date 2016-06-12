@@ -130,14 +130,6 @@ debug.txt
 /cb-fw/dist
 /cb-app/nbproject/private/
 webapp/WEB-INF/frm_classes/
-/cb-fw/build/
-/cb-app/build/
-/cb-app/dist/
-/cb-web/build/
-/cb-tools/build/
-/cb-tools/nbproject/private/
-/cb-tools/dist/
-/cb-tools/output/
 /cb-web/build/
 /webapp/mails
 /cb-fw/dist/
@@ -153,19 +145,13 @@ cdn.app.version.txt
 cdn.symmetry.version.txt
 /cb-jsp-src/build/
 /cb-jsp-src/dist/
-/review/
 
 /build_prod/
-/qa/logs
-/qa/javadoc/
-/cb-customer-migration/nbproject/private/
-/cb-customer-migration/build/
-/cb-customer-migration/dist/
-/cb-themes/nbproject/private/
-/cb-themes/dist/
-/cb-themes/build/
+/KanyakubjaPortal/nbproject/private/
+/KanyakubjaPortal/build/
+/KanyakubjaPortal/dist/
 
 /jspt_intermediate_files/
 /javadoc
 
-tomcat/bin/.class_modified
+tomcat8/bin/.class_modified

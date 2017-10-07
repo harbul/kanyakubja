@@ -1,0 +1,42 @@
+Jun 12, 2016 4:17:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jun 12, 2016 4:17:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jun 12, 2016 4:17:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 12, 2016 4:17:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 12, 2016 4:17:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/_t/rc48r2t15lb1qczf0sz6zrtc0000gn/T/context5255703445570529576.xml'
+Jun 12, 2016 4:17:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/kanyakubja-portal'
+Jun 12, 2016 4:21:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 12, 2016 4:21:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 12, 2016 4:21:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/kanyakubja-portal'
+Jun 12, 2016 4:21:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/_t/rc48r2t15lb1qczf0sz6zrtc0000gn/T/context6658052276198488118.xml'
+Jun 12, 2016 4:21:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/kanyakubja-portal'
+Jun 12, 2016 4:25:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 12, 2016 4:25:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 12, 2016 4:25:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/_t/rc48r2t15lb1qczf0sz6zrtc0000gn/T/context8198664741465728659.xml'
+Jun 12, 2016 4:25:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/kanyakubja-portal'
+Jun 12, 2016 4:32:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jun 12, 2016 4:32:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jun 12, 2016 4:32:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 12, 2016 4:32:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jun 12, 2016 4:32:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/_t/rc48r2t15lb1qczf0sz6zrtc0000gn/T/context600278651507433150.xml'
+Jun 12, 2016 4:32:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/kanyakubja-portal'
